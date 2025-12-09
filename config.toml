@@ -1,0 +1,9 @@
+[client]
+version = "1.0.0"
+
+[client.files]
+client = "bin/client.exe"
+assets = "assets.json"
+
+[launch]
+protocol_version = 1140
